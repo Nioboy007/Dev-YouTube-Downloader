@@ -11,7 +11,7 @@ logging.basicConfig(
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6999401413:AAHgF1ZpUsCT5MgWX1Wky7GbegyeHvzi2AU")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6808733335:AAFFS0OQGXAwqUcqaEU41XPkfkdrWGMXB6w")
     
     API_ID = int(os.environ.get("API_ID", "10471716"))
     
@@ -53,5 +53,5 @@ class Config(object):
     
     TG_MIN_FILE_SIZE = 2097152000
     
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "Io_TesterBot")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "UrlUploaderio_bot")
                                   
