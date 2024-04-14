@@ -35,9 +35,9 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
  
 """
     ABOUT_TEXT = """
-**Mʏ ɴᴀᴍᴇ** : [Url Uploader 👾](https://t.me/UrlUploaderio_bot)
+**Mʏ ɴᴀᴍᴇ** : [Uʀʟ Uᴘʟᴏᴀᴅᴇʀ 👾](https://t.me/UrlUploaderio_bot)
 
-**Cʜᴀɴɴᴇʟ** : [NT Bᴏᴛs](https://t.me/botio_devs)
+**Cʜᴀɴɴᴇʟ** : [.ɪᴏ Dᴇᴠs](https://t.me/botio_devs)
 
 **Dᴀᴛᴀʙᴀsᴇ** : [MᴏɴɢᴏDB](https://cloud.mongodb.com)
 
