@@ -54,4 +54,10 @@ class Config(object):
     TG_MIN_FILE_SIZE = 2097152000
     
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "UrlUploaderio_bot")
-                                  
+
+    TECH_VJ_BOT_USERNAME = os.environ.get("TECH_VJ_BOT_USERNAME", "@UrlUploaderio_bot") 
+    
+    TECH_VJ = bool(environ.get('TECH_VJ', True)) 
+    
+    TECH_VJ_TUTORIAL = os.environ.get("TECH_VJ_TUTORIAL", "https://t.me/botio_devs/76")
+
