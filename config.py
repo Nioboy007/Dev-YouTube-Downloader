@@ -17,7 +17,7 @@ def is_enabled(value, default):
 
 class Config(object):
 
-    TECH_VJ_BOT_USERNAME = os.environ.get("TECH_VJ_BOT_USERNAME", "@UrlUploaderio_bot") 
+    TECH_VJ_BOT_USERNAME = os.environ.get("TECH_VJ_BOT_USERNAME", "UrlUploaderio_bot") 
     
     # the download location, where the HTTP Server runs
     TECH_VJ_DOWNLOAD_LOCATION = "./DOWNLOADS"
