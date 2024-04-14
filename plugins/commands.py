@@ -16,7 +16,6 @@ from translation import Translation
 from utils import verify_user, check_token
 from pyrogram import filters, enums
 from database.adduser import AddUser
-from plugins.forcesub import handle_force_sub
 from pyrogram import Client as Tech_VJ
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
