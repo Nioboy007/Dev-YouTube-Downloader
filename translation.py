@@ -65,15 +65,17 @@ Usᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍ
         ]]
     )
     TECH_VJ_HELP_BUTTONS = InlineKeyboardMarkup(
-        [
+    [[
             InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/botio_devs')
-        ], [
+        ],
+        [
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
             InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
-        ], [
+        ],
+        [
             InlineKeyboardButton('📛 ᴄʟᴏsᴇ', callback_data='close')
-        ]
-    )
+        ]]
+        ) 
     TECH_VJ_ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
             InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
