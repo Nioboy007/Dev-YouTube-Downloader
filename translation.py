@@ -72,7 +72,7 @@ Usᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍ
             InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
         ], [
             InlineKeyboardButton('📛 ᴄʟᴏsᴇ', callback_data='close')
-        ]]
+        ]
     )
     TECH_VJ_ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
