@@ -66,7 +66,7 @@ class Config(object):
     
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "UrlUploaderio_bot")
 
-    TECH_VJ_BOT_USERNAME = os.environ.get("TECH_VJ_BOT_USERNAME", "@UrlUploaderio_bot") 
+    TECH_VJ_BOT_USERNAME = os.environ.get("TECH_VJ_BOT_USERNAME", "UrlUploaderio_bot") 
     
     TECH_VJ = bool(environ.get('TECH_VJ', True)) 
     
